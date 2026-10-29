@@ -1,2 +1,2 @@
-*.sldmat text working-tree-encoding=UTF-16
+*.sldmat text working-tree-encoding=UTF-16LE-BOM
 *.md text eol=crlf
